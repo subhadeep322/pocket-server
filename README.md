@@ -101,4 +101,9 @@ Once everything is installed, starting your server the next day takes 30 seconds
 4. Press `Ctrl+b` -> `c`. Press the **Up Arrow** to find your `llama-server...` command and press Enter.
 5. *(Remember: Your local IP address might change if your router restarts, so use `ifconfig` to check it!)*
 
-6. ![Description of the picture](image-name.jpg)
+# llama-cpp
+<img width="1863" height="1057" alt="image" src="https://github.com/user-attachments/assets/e38de433-d1c3-46ef-9f7f-d7638d6ac8e8" />
+
+
+## kiwix-wikipedia
+<img width="1919" height="1022" alt="Screenshot 2026-03-09 213302" src="https://github.com/user-attachments/assets/ecda8399-c768-4184-8758-18b92284bfdb" />
